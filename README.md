@@ -1,2 +1,2 @@
-# Git de jimmy
+# Git de jimmy con mi usuario configurado
 Git
