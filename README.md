@@ -1,4 +1,4 @@
 # Git de Andrea, 
 
-# Cambio desde GitHub
-Git
+# Cambio desde Local ---> GitHub
+
