@@ -1,5 +1,5 @@
 # Git de Juan
 
-# CAMBIO DESDE GITHUB
+# CAMBIO DESDE LOCAL ---> GITHUB
 
-Git cambio
+# CAMBIO DESDE LOCAL ---> GITHUB 2
