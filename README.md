@@ -1,4 +1,4 @@
-# Git de jimmy con mi usuario configurado, 
+# jimmy's git with my user set up,
 
-# cambio desde github
+# cambio desde local ---> github
 Git
