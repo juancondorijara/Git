@@ -1,4 +1,5 @@
 # jimmy's git with my user set up,
 
-# cambio desde local ---> github
-Git
+# change from local ---> github
+
+# cambio desde local ---> github 2
